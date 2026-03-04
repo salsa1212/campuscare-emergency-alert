@@ -1,9 +1,24 @@
 [/] Login Page
+Successfully created the wireframes and low-fidelity prototype
 
 
 
-[] Register Page
-[] Login Page
-[] Login Page
-[] Login Page
-[] Login Page
+[/] Register Page
+Successfully created the wireframes and low-fidelity prototype
+
+
+
+[/] Emergency page
+Successfully created the wireframes and low-fidelity prototype
+
+
+[/] Status page
+Successfully created the wireframes and low-fidelity prototype
+
+
+[/] First Aid guide Page
+Successfully created the wireframes and low-fidelity prototype
+
+[/] Staff Dashboard Page
+Successfully created the wireframes and low-fidelity prototype
+
